@@ -1,6 +1,6 @@
 # ToDo-List-App-CLI
 
-This is a CLI based to-do list app that was given as a programming problem by GDC Network. I created the same program in 12 different programming languages.
+This is a CLI based to-do list app that was given as a programming problem by GDC Network. I created the same program in 14 different programming languages.
 
 GDC network also provided test file to test the app. There's 16 test cases in total. I ran the same test for each programming language and recorded the execution time.
 (I tried to keep the algorithm pretty much the same in every language. Of course I made sure all test cases have passed.)
@@ -13,10 +13,12 @@ The result was as follows :-
 | C++ | 1.260 | 2.080 |
 | C# | 4.144 | 5.068 |
 | Dart | 1.914 | 7.336 |
+| Elixir | 65.694 | 80.574 |
 | Go | 1.313 | 2.238 |
 | Java | 8.204 | 8.716 |
 | Javascript | 4.583 | 5.096 |
 | Kotlin | 8.007 | 8.313 |
+| PHP | 2.510 | 3.333 |
 | Python | 3.363 | 7.707 |
 | Ruby | 7.486 | 8.444 |
 | Rust | 1.297 | 1.361 |
