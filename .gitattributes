@@ -1,3 +1,2 @@
-* linguist-vendored
 task.test.js linguist-vendored=true
 task.test.js linguist-detectable=false
