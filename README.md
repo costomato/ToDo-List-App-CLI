@@ -1,6 +1,6 @@
 # ToDo-List-App-CLI
 
-This is a CLI based to-do list app that was given as a programming problem by GDC Network. I created the same program in 14 different programming languages.
+This is a CLI based to-do list app that was given as a programming problem by GDC Network. I created the same program in 16 different programming languages.
 
 GDC network also provided test file to test the app. There's 16 test cases in total. I ran the same test for each programming language and recorded the execution time.
 (I tried to keep the algorithm pretty much the same in every language. Of course I made sure all test cases have passed.)
@@ -17,7 +17,9 @@ The result was as follows :-
 | Go | 1.313 | 2.238 |
 | Java | 8.204 | 8.716 |
 | Javascript | 4.583 | 5.096 |
+| Julia | 34.316 | 37.652 |
 | Kotlin | 8.007 | 8.313 |
+| Objective-c | 1.571 | 1.760 |
 | PHP | 2.510 | 3.333 |
 | Python | 3.363 | 7.707 |
 | Ruby | 7.486 | 8.444 |
@@ -41,6 +43,7 @@ Time taken by each language was recorded 3 times. Here's the min and max values 
 - Winner of this competition: **Rust**
   - Opinions might vary. I decided the winner after considering major characteristics of a good programming language. Although understanding strings in Rust is pretty difficult, it made itself the winner here.
 - I am not trying to imply any idea about any language through this project. All programming languages are fine. It just depends upon the type of task. All the best and worst on my list are limited to THIS PROJECT ONLY.
+- Fortran part is incomplete.
 
 (Btw the usage of programming languages shown by github in this repository has javascript with maximum value. It's because all tests were written in it)
 
